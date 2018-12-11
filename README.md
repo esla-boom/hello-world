@@ -54,3 +54,4 @@ available to all users:
 ```
 $ oc create -n openshift -f amq -f eap -f webserver
 ```
+end
